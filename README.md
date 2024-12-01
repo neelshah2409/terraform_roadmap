@@ -1,4 +1,5 @@
  ## Terraform Roadmap
+![terraform_roadmap](https://github.com/user-attachments/assets/ad92f3a0-178d-4e73-aa29-8238daff12ab)
 
 **Overview**
 
